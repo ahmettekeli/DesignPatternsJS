@@ -6,7 +6,7 @@ class Person {
 		this.city = "";
 
 		//employment
-		this.companyName = "";
+		this.company = "";
 		this.position = "";
 		this.annualSalary = 0;
 	}
@@ -14,7 +14,7 @@ class Person {
 	toString() {
 		return (
 			`Person lives at ${this.streetName}, ${this.city}, ${this.postalCode}\n ` +
-			`and works at ${this.companyName} as a ${this.position} earning ${this.annualSalary}`
+			`and works at ${this.company} as a ${this.position} earning ${this.annualSalary}`
 		);
 	}
 }
@@ -42,8 +42,8 @@ class PersonJobBuilder extends PersonBuilder {
 		super(person);
 	}
 
-	at(companyName) {
-		this.person.companyName = companyName;
+	at(company) {
+		this.person.company = company;
 		return this;
 	}
 
@@ -78,7 +78,7 @@ class PersonAddressBuilder extends PersonBuilder {
 	}
 }
 
-let pb = new PersonAddressBuilder();
+let pb = new PersonBuilder();
 let person = pb.lives
 	.at("Wall Street")
 	.in("New York City")
