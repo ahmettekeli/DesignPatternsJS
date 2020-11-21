@@ -15,9 +15,9 @@ Below there is a list of GOF Design Patterns implemented in JavaScript using ES6
 * [Template](#template)
 * [Visitor](#visitor) -->
 
-**[Creational](#Creational Patterns)**
+**[Creational](https://github.com/ahmettekeli/DesignPatternsJS/tree/master/Creational%20Patterns)**
 <!-- * [Abstract Factory](#abstract-factory) -->
-* [Builder](#Builder)
+* [Builder](https://github.com/ahmettekeli/DesignPatternsJS/tree/master/Creational%20Patterns/Builder)
 <!-- * [Factory](#factory)
 * [Prototype](#prototype)
 * [Singleton](#singleton)
