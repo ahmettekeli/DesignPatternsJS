@@ -2,7 +2,7 @@
 
 Below there is a list of GOF Design Patterns implemented in JavaScript using ES6 classes.
 
-<!-- **[Behavioral](#behavioral)**
+<!-- **[Behavioral Patterns](#behavioral)**
 * [Chain Of Resp](#chain-of-resp)
 * [Command](#command)
 * [Interpreter](#interpreter)
@@ -15,14 +15,14 @@ Below there is a list of GOF Design Patterns implemented in JavaScript using ES6
 * [Template](#template)
 * [Visitor](#visitor) -->
 
-**[Creational](https://github.com/ahmettekeli/DesignPatternsJS/tree/master/Creational%20Patterns)**
+**[Creational Patterns](https://github.com/ahmettekeli/DesignPatternsJS/tree/master/Creational%20Patterns)**
 <!-- * [Abstract Factory](#abstract-factory) -->
 * [Builder](https://github.com/ahmettekeli/DesignPatternsJS/tree/master/Creational%20Patterns/Builder)
-<!-- * [Factory](#factory)
-* [Prototype](#prototype)
+* [Factory](https://github.com/ahmettekeli/DesignPatternsJS/tree/master/Creational%20Patterns/Factory)
+<!-- * [Prototype](#prototype)
 * [Singleton](#singleton)
 
-**[Structural](#structural)**
+**[Structural Patterns](#structural)**
 * [Adapter](#adapter)
 * [Bridge](#bridge)
 * [Composite](#composite)
