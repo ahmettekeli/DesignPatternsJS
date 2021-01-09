@@ -37,3 +37,5 @@ console.log("---------------");
 
 console.log(mgr1.toString());
 console.log(mgr2.toString());
+
+//mgr2 overwrites MonostateManager class instance singe mgr1 and mgr2 both operate on the class instance.

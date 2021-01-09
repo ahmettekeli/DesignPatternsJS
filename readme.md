@@ -20,13 +20,13 @@ Below there is a list of GOF Design Patterns implemented in JavaScript using ES6
 * [Builder](https://github.com/ahmettekeli/DesignPatternsJS/tree/master/Creational%20Patterns/Builder)
 * [Factory](https://github.com/ahmettekeli/DesignPatternsJS/tree/master/Creational%20Patterns/Factory)
 * [Prototype](https://github.com/ahmettekeli/DesignPatternsJS/tree/master/Creational%20Patterns/Prototype)
-<!-- * [Singleton](#singleton)
+* [Singleton]((https://github.com/ahmettekeli/DesignPatternsJS/tree/master/Creational%20Patterns/Singleton)
 
-**[Structural Patterns](#structural)**
+<!-- **[Structural Patterns](#structural)**
 * [Adapter](#adapter)
 * [Bridge](#bridge)
 * [Composite](#composite)
 * [Decorator](#decorator)
 * [Facade](#facade)
 * [Flyweight](#flyweight)
-* [Proxy](#proxy) -->
+* [Proxy](#proxy)  -->
